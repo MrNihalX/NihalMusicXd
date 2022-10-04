@@ -14,11 +14,11 @@ tg_2 : "❌ 𝐅𝐚𝐢𝐥𝐞𝐝 𝐓𝐨 𝐃𝐨𝐞𝐧𝐥𝐨𝐚𝐝 �
 
 # Core - Call.py
 call_1 : "**🥀 𝐈 𝐍𝐞𝐞𝐝 𝐀𝐝𝐦𝐢𝐧 𝐏𝐞𝐫𝐦𝐢𝐬𝐬𝐢𝐨𝐧 𝐓𝐨 𝐈𝐧𝐯𝐢𝐭𝐞 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭 𝐢𝐧 𝐘𝐨𝐮𝐫 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ✨ ...**"
-call_2 : "shizuka_nobi Assistant is banned in your group or channel, please unban.\n\n**Assistant Username:** @{0}\n**Assistant ID:** {1}"
+call_2 : "Queen Assistant is banned in your group or channel, please unban.\n\n**Assistant Username:** @{0}\n**Assistant ID:** {1}"
 call_3 : "Exception Occured While Inviting bgt Assistant Account to your chat.\n\n**Reason**: {0}"
 call_4 : "Bot requires **Invite Users Via Link** Permission to invite bgt assistant account to your chat group."
-call_5 : "shizuka_nobi Assistant Account will be joining in 5 Seconds..Please Wait!"
-call_6 : "shizuka_nobi Assistant Account[{0}] Joined Successfully.\n\nStarting Music Now"
+call_5 : "Queen Assistant Account will be joining in 5 Seconds..Please Wait!"
+call_6 : "Queen Assistant Account[{0}] Joined Successfully.\n\nStarting Music Now"
 call_7 : "**Harmful Admin Right Given **\n\nPlease remove **BAN USERS** rights from the bot."
 call_8 : "**Harmful Admin Right Given **\n\nPlease remove **ADD NEW ADMINS** rights from the bot."
 call_9 : "**🥀 𝐒𝐤𝐢𝐩𝐩𝐢𝐧𝐠 𝐄𝐫𝐫𝐨𝐫, 𝐒𝐨 𝐏𝐥𝐞𝐚𝐬𝐞\n𝐒𝐤𝐢𝐩 𝐀𝐠𝐚𝐢𝐧 ✨ ...**"
@@ -75,7 +75,7 @@ admin_34 : "**❌ 𝐅𝐚𝐢𝐥𝐞𝐝 𝐓𝐨 𝐒𝐞𝐞𝐤 𝐓𝐡�
 
 # Start
 start_1 : "**✅ 𝐓𝐡𝐚𝐧𝐤 𝐘𝐨𝐮 𝐅𝐨𝐫 𝐔𝐬𝐢𝐧𝐠 𝐌𝐞 𝐈𝐧\n𝐂𝐡𝐚𝐭 »  {0}\n\n🥀 𝐈𝐟 𝐘𝐨𝐮 𝐇𝐚𝐯𝐞 📀 𝐀𝐧𝐲 𝐐𝐮𝐞𝐫𝐢𝐞𝐬\n𝐓𝐡𝐞𝐧 𝐄𝐱𝐩𝐥𝐚𝐢𝐧 💬 𝐓𝐨 𝐌𝐲 𝐎𝐰𝐧𝐞𝐫.\n\n💐 𝐉𝐨𝐢𝐧 𝐎𝐮𝐫 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 ‖ 𝐒𝐮𝐩𝐩𝐨𝐫𝐭\n𝐅𝐨𝐫 𝐆𝐞𝐭𝐭𝐢𝐧𝐠 𝐍𝐞𝐰 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 💞...**"
-start_2 : "**🥀 𝐇𝐞𝐥𝐥𝐨, 𝐈 𝐀𝐦 𝐀𝐧 📀 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐀𝐧𝐝\n𝐒𝐮𝐩𝐞𝐫𝐟𝐚𝐬𝐭 𝐕𝐂 𝐏𝐥𝐚𝐲𝐞𝐫 » 𝐅𝐨𝐫 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦\n𝐂𝐡𝐚𝐧𝐧𝐞𝐥 𝐀𝐧𝐝 𝐆𝐫𝐨𝐮𝐩𝐬 ✨ ...\n\n💐 𝐅𝐞𝐞𝐥 𝐅𝐫𝐞𝐞 𝐓𝐨 🕊️ 𝐀𝐝𝐝 𝐌𝐞 𝐢𝐧 𝐘𝐨𝐮𝐫\n𝐆𝐫𝐨𝐮𝐩, 🌺 𝐀𝐧𝐝 𝐄𝐧𝐣𝐨𝐲 ❥︎ 𝐒𝐮𝐩𝐞𝐫 𝐇𝐢𝐠𝐡\n𝐐𝐮𝐚𝐥𝐢𝐭𝐲 𝐀𝐮𝐝𝐢𝐨 𝐀𝐧𝐝 𝐕𝐢𝐝𝐞𝐨 🌷 ...\n\n📡 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲: [𝐍𝐎𝐁𝐈𝐓𝐀_𝐗𝐃](https://t.me/AAPLI_YAARI) 💞 ...**"
+start_2 : "**🥀 𝐇𝐞𝐥𝐥𝐨, 𝐈 𝐀𝐦 𝐀𝐧 📀 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐀𝐧𝐝\n𝐒𝐮𝐩𝐞𝐫𝐟𝐚𝐬𝐭 𝐕𝐂 𝐏𝐥𝐚𝐲𝐞𝐫 » 𝐅𝐨𝐫 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦\n𝐂𝐡𝐚𝐧𝐧𝐞𝐥 𝐀𝐧𝐝 𝐆𝐫𝐨𝐮𝐩𝐬 ✨ ...\n\n💐 𝐅𝐞𝐞𝐥 𝐅𝐫𝐞𝐞 𝐓𝐨 🕊️ 𝐀𝐝𝐝 𝐌𝐞 𝐢𝐧 𝐘𝐨𝐮𝐫\n𝐆𝐫𝐨𝐮𝐩, 🌺 𝐀𝐧𝐝 𝐄𝐧𝐣𝐨𝐲 ❥︎ 𝐒𝐮𝐩𝐞𝐫 𝐇𝐢𝐠𝐡\n𝐐𝐮𝐚𝐥𝐢𝐭𝐲 𝐀𝐮𝐝𝐢𝐨 𝐀𝐧𝐝 𝐕𝐢𝐝𝐞𝐨 🌷 ...\n\n📡 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲: [𝐍𝐎𝐁𝐈𝐓𝐀_𝐗𝐃](https://t.me/Mr_Nihal9) 💞 ...**"
 start_3 : "**✅ 𝐓𝐡𝐚𝐧𝐤 𝐘𝐨𝐮 𝐅𝐨𝐫 𝐔𝐬𝐢𝐧𝐠 𝐌𝐞 𝐈𝐧\n𝐘𝐨𝐮𝐫 🌺 𝐂𝐡𝐚𝐭𝐬 🌿 𝐆𝐫𝐨𝐮𝐩 ✨ ...\n\n𝐀 𝐔𝐬𝐞𝐫𝐧𝐚𝐦𝐞 › @{1}\n𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭 𝐈𝐃 : `{2}`\n\n💐 𝐉𝐨𝐢𝐧 𝐎𝐮𝐫 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 ‖ 𝐒𝐮𝐩𝐩𝐨𝐫𝐭\n𝐅𝐨𝐫 𝐆𝐞𝐭𝐭𝐢𝐧𝐠 𝐍𝐞𝐰 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 💞...**"
 start_4 : "**💥 ❰𝐐𝐔𝐄𝐄𝐍✘𝐏𝐋𝐀𝐘𝐄𝐑❱ 💿 𝐎𝐰𝐧𝐞𝐫 [{1}] 💞 𝐇𝐚𝐬 𝐉𝐮𝐬𝐭 🌺 𝐉𝐨𝐢𝐧𝐞𝐝 😍 𝐘𝐨𝐮𝐫 𝐂𝐡𝐚𝐭 🥀.**"
 start_5 : "**🤖 𝐀 𝐌𝐞𝐦𝐛𝐞𝐫 𝐎𝐟 ❰𝐐𝐔𝐄𝐄𝐍✘𝐏𝐋𝐀𝐘𝐄𝐑❱ 𝐒𝐮𝐝𝐨 𝐔𝐬𝐞𝐫 [{1}] 𝐇𝐚𝐬 𝐉𝐮𝐬𝐭 𝐉𝐨𝐢𝐧𝐞𝐝 𝐘𝐨𝐮𝐫 𝐂𝐡𝐚𝐭 🌷 ...**"
