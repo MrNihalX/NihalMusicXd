@@ -1,8 +1,7 @@
-# A Powerful Music Bot Property Of Rocks Indian Largest Chatting Group
+# A Powerful Music Bot Property Of Redox Indian Largest Chatting Group
 # Without Credit (Mother Fucker)
-# Rocks © @Dr_Asad_Ali © Rocks
-# Owner Asad Ali
-# Harshit Sharma
+# Redox © @Mr_Nihal9 © REDOXMOD
+# Mr Nihal
 
 
 from typing import Dict, List, Union
