@@ -1,4 +1,4 @@
-# A Powerful Music Bot Property Of Rocks Indian Largest Chatting Group
+# A Powerful Music Bot Property Of Redox Indian Largest Chatting Group
 # Without Credit (Mother Fucker)
 # Redox © @Mr_Nihal9 © REDOXMOD
 # Mr Nihal
